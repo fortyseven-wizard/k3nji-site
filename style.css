@@ -9,3 +9,14 @@ body {
 a {
 	color: #C7C7C7;
 }
+
+.responsive-div {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  container-type: inline-size;
+}
+
+.responsive-div pre {
+  font-size: 0.55rem;
+}
